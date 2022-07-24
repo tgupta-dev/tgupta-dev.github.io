@@ -1,0 +1,75 @@
+body {
+    font: 11px Verdana;
+    width: 700px;
+    margin: auto;
+    padding: 10px;
+    border-bottom: 2px solid;
+}
+
+h1,
+h3 {
+    text-align: center;
+}
+
+.contact-info {
+    text-align: center;
+    border-bottom: 2px solid;
+    margin: 10px 0px;
+    padding: 10px 0px;
+}
+
+.section-highlights {
+    display: none;
+    background-color: #E8E8E8;
+    padding: 10px 20px;
+    text-align: center;
+    border: 1px solid #D3D3D3;
+}
+
+.section-header {
+    border-bottom: 2px solid;
+    line-height: 0.1em;
+    margin: 25px 0px 10px;
+}
+
+.section-header span {
+    background: #fff;
+    padding: 0px 10px;
+}
+
+.project {
+    border-bottom: 1px solid;
+    margin: 10px 0px;
+}
+
+.project-heading {
+    background: #E8E8E8;
+    margin: 20px 10px 0px;
+    padding: 5px;
+    font-weight: bold;
+}
+
+.project-sub-heading {
+    margin: 0px 10px;
+    padding: 5px;
+}
+
+.project-software-stack {
+    margin: 0px 10px;
+    padding: 5px;
+}
+
+.project-role {
+    margin: 0px 10px;
+    padding: 5px;
+}
+
+.project-responsibilities {
+    margin: 0px 10px;
+    padding: 5px;
+}
+
+.education {
+    margin: 0px 10px;
+    padding: 5px;
+}
